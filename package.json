@@ -1,0 +1,23 @@
+{
+  "name": "lone_wolf_photography",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages-deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gregt26/Lone_Wolf_Photography.git"
+  },
+  "keywords": [],
+  "author": "Greg Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gregt26/Lone_Wolf_Photography/issues"
+  },
+  "homepage": "https://gregt26.github.io/Lone_Wolf_Photography",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
